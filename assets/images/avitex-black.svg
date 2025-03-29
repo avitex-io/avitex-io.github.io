@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" id="AVITEX" viewBox="0 0 2560 865.07" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="avitex-logo-title avitex-logo-desc">
+  <title id="avitex-logo-title">Avitex IO logo</title>
+  <desc id="avitex-logo-desc">Stylized text logo spelling out the company name AVITEX using solid, bold lettering.</desc>
+  <ns0:path id="A" class="logo-fill" d="M367.86,559.71h-199.36l-40.35,99.68H1.58L214.39,131.72h111.55l208.06,527.67h-126.58l-39.56-99.68ZM334.64,466.36l-64.87-177.21-65.66,177.21h130.53Z" fill="#000000" />
+  <ns0:path id="V" class="logo-fill" d="M612.31,131.72l133.7,337.8,133.7-337.8h131.32l-223.88,527.67h-82.27L480.99,131.72h131.32Z" fill="#000000" />
+  <ns0:path id="I" class="logo-fill" d="M1196.14,131.72v527.67h-121.83V131.72h121.83Z" fill="#000000" />
+  <ns0:path id="T" class="logo-fill" d="M1499.14,234.56v424.83h-121.83V234.56h-114.71v-102.84h351.25v102.84h-114.71Z" fill="#000000" />
+  <ns0:path id="E" class="logo-fill" d="M1976.17,234.56h-176.42v102.05h167.71v102.84h-167.71v117.08h176.42v102.84h-298.25V131.72h298.25v102.84Z" fill="#000000" />
+  <ns0:path id="X" class="logo-fill" d="M2219.04,379.33l-163.76-247.62h146.35l87.02,150.31,87.02-150.31h146.35l-163.76,247.62,193.82,280.05h-146.35l-117.08-182.75-117.08,182.75h-146.36l193.82-280.05Z" fill="#000000" />
+</ns0:svg>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg id="AVITEX" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 865.07" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="avitex-logo-title avitex-logo-desc">
+  <defs>
+    <style type="text/css">
+      @import url('https://use.typekit.net/ovz5ovq.css');
+
+      .logo-svg {
+        font-family: 'futura-pt', sans-serif;
+        font-size: 791.11px;
+        font-weight: 800;
+        font-style: normal;
+      }
+    </style>
+  </defs>
+  <title id="avitex-logo-title">Avitex IO logo</title>
+  <desc id="avitex-logo-desc">Stylized text logo spelling out the company name AVITEX using solid, bold lettering.</desc>
+  <text class="logo-svg" transform="translate(0 659.39)" fill="currentColor"><tspan x="0" y="0">AVITEX</tspan></text>
+</svg>
